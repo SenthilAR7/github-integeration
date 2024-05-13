@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HelloWorld {
+public class HelloWorldExample {
 
     public static void main(String[] args) {
 
@@ -14,6 +14,5 @@ public class HelloWorld {
 
         // println() prints the following line to the output screen
         System.out.println("You entered: " + number);
-        System.out.println("You entered Number: " + number);
     }
 }
